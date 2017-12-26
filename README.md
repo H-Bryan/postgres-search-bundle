@@ -14,7 +14,7 @@ Add PostgreSearchBundle in your composer.json:
 ```js
 {
     "require": {
-        "intaro/postgres-search-bundle": "dev-master"
+        "hbryan/postgres-search-bundle": "dev-master"
     }
 }
 ```
